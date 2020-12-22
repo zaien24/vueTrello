@@ -1,18 +1,13 @@
-# hsk-vue-trello
+[생성]
+ # 201222
 
-> A Vue.js project
+[목적]
+ # vue 트렐로 생성
 
-## Build Setup
+[개발환경] 
+ # vue
 
-``` bash
-# install dependencies
-npm install
+[출처]
+ # 트렐로 개발로 배우는 Vuejs, Vuex, Vue-Router 프론트엔드 실전 기술
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
